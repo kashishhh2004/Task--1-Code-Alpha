@@ -1,4 +1,4 @@
-//fibonacci series generator
+'''fibonacci series generator'''
 
 def fibonacci():
     x, y = 0, 1
